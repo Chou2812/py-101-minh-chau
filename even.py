@@ -9,7 +9,7 @@ else:
 y = [1 ,2 ,3 ,4, 15, 67, 89, 23]
 for i in y:
     if i % 2 == 0:
-        print("{} la so chan".format(i))
+        print("{} la so chan ".format(i))
     else:
         print("{} la so le".format(i))
         

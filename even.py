@@ -2,7 +2,7 @@ x = 5
 if x%2==0:
     print("day la so chan")
 else:
-    print("dday la so le")
+    print("dday la so le ")
     
     
     
